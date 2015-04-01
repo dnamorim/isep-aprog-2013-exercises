@@ -1,0 +1,5 @@
+Rui Costa;M;136;B
+Ana Costa;F;231;A
+Rui Santos;M;188;B
+Maria Sá;F;150;B
+Duarte Amorim;M;140;B
