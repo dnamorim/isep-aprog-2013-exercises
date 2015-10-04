@@ -1,5 +1,5 @@
-# aprog_2013_exerciciosaulas
+# aprog_2013_exercicios
 
-Resolução dos Exercícios das Aulas PL para a Unidade Curricular do 1ºAno - Algoritmia e Programação (APROG) da LEI-ISEP.
+Resolução dos exercícios da Unidade Curricular "Algoritmia e Programação" (APROG) do 1º Ano da [Licenciatura de Engenharia Informática](http://www.isep.ipp.pt/Course/Course/26) do [Instituto Superior de Engenharia do Porto](http://www.isep.ipp.pt) (LEI-ISEP).
 
-© [dnamorim] (mailto:dnamorim95@gmail.com), 2014
+© [Duarte Amorim](https://github.com/dnamorim), 2013
